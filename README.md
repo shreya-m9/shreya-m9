@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Shreya Mookherjee -- Northeastern Class of 2029
+Shreya Mookherjee
+Data Science and Biochemistry Major
+Northeastern Class of 2029
