@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Shreya Mookherjee Profile
+Shreya Mookherjee -- Northeastern Class of 2029
